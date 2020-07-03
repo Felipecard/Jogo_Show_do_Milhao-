@@ -27,8 +27,8 @@ Pode ser instalado no Windows, IOS e Linux
 
 ## Desenvolvimento:
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
-> cd "diretorio de sua preferencia"
-> git clone https://github.com/Felipecard/Jogo_Show_do_Milhao-
+- > cd "diretorio de sua preferencia"
+- > git clone https://github.com/Felipecard/Jogo_Show_do_Milhao-
 
 ## Construção:
 Como se trata de um projeto Python puro, basta o Python 3.7 ou superior estar instalado.
