@@ -31,7 +31,7 @@ git clone https://github.com/
 Como se trata de um projeto Python puro, basta o Python estar instalado.
 
 ## Publicação:
-Comoo esse é projeto só roda em Desktop, não é necessario um adicionar deploy.
+Como esse é projeto só roda em Desktop, não é necessário adicionar um deploy.
 
 ## Features
 O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto Python. Ele também demonstra de forma prática como utilizar diversas ferramentas Python.
