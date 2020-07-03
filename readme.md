@@ -13,7 +13,7 @@ Para isso, foi escolhido utilizar a linguagem Python 3.8.3 e fazer o projeto em 
 
 
 **Para executar o projeto, basta clicar no arquivo:**
-- show_do_milhao.py -
+- ` show_do_milhao.py `
 
 
 
