@@ -10,6 +10,9 @@ Esse projeto tem como propósito um desafio para a empresa Jovens Gênios. Para 
 
 Para isso, foi escolhido utilizar a linguagem Python e fazer o projeto em linha de comando, sendo toda interacao com usuário feita pelo terminal e ainda assim atraente tambem para criancas.
 
+Para executar, basta clicar no arquivo:
+* show_do_milhao.py
+
 ## Pré-requisitos:
 Para rodar o jogo é preciso ter o **Python** instalado no computador, ele pode ser baixado pelo link:
 * https://www.python.org/downloads/
