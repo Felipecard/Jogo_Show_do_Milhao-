@@ -31,10 +31,10 @@ cd "diretorio de sua preferencia"
 git clone https://github.com/Felipecard/Jogo_Show_do_Milhao-
 
 ## Construção:
-Como se trata de um projeto Python puro, basta o Python estar instalado.
+Como se trata de um projeto Python puro, basta o Python 3.7 ou superior estar instalado.
 
 ## Publicação:
-Como esse é projeto só roda em Desktop, não é necessário adicionar um deploy.
+Como esse projeto só roda em Desktop, não é necessário adicionar um deploy.
 
 ## Features
 O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto Python. Ele também demonstra de forma prática como utilizar diversas ferramentas Python.
@@ -43,7 +43,7 @@ O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projet
 Não é necessario baixar nenhuma biblioteca, todas as bibliotecas usadas são padrões do Python.
 
 ## Contribuições
-Contribuições são sempre bem-vindas! Para contribuir lembre-se sempre de adicionar testes unitários para as novas classes com a devida documentação.
+Contribuições são sempre bem vindas! Para contribuir lembre-se de dar os créditos.
 
 ### Dev By:
 Felipe Cardoso
