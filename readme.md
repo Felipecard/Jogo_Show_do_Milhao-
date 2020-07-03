@@ -11,7 +11,7 @@ Esse projeto tem como propósito um desafio para a empresa Jovens Gênios. Para 
 Para isso, foi escolhido utilizar a linguagem Python 3.8.3 e fazer o projeto em linha de comando, sendo toda interacao com usuário feita pelo terminal e ainda assim atraente tambem para criancas.
 
 **Para executar o projeto, basta clicar no arquivo:**
-- `show_do_milhao.py` 
+> `show_do_milhao.py` 
 
 ## Vídeo do Jogo sendo Executado e Explicado:
 - https://www.youtube.com/watch?v=Mmeqvnmi6kc
