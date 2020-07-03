@@ -8,7 +8,7 @@ Esse projeto tem como propósito um desafio para a empresa Jovens Gênios. Para 
 
 ![imagem](img_show.jpg)
 
-Para isso, foi escolhido utilizar a linguagem Python e fazer o projeto em linha de comando, sendo toda interacao com usuário feita pelo terminal e ainda assim atraente tambem para criancas.
+Para isso, foi escolhido utilizar a linguagem Python 3.8.3 e fazer o projeto em linha de comando, sendo toda interacao com usuário feita pelo terminal e ainda assim atraente tambem para criancas.
 
 
 
