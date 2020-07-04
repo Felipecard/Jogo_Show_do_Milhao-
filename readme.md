@@ -41,7 +41,7 @@ O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projet
 Não é necessario baixar nenhuma biblioteca, todas as bibliotecas usadas são padrões do Python 3.8.3.
 
 ## Contribuições
-Contribuições são sempre bem vindas! Para contribuir lembre-se de referenciar.
+Contribuições são sempre bem vindas! Para utilização lembre-se de referenciar.
 
 ### Dev By:
 Felipe Cardoso
