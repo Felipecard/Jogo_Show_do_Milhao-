@@ -18,7 +18,7 @@ Para isso, foi escolhido utilizar a linguagem Python 3.8.3 e fazer o projeto em 
 
 ## Pré-requisitos:
 Para rodar o jogo é preciso ter o **Python 3.7 ou superior instalado**, ele pode ser baixado pelo link:
-* https://www.python.org/downloads/
+- https://www.python.org/downloads/
 
 Pode ser instalado no Windows, IOS e Linux
 
@@ -27,23 +27,20 @@ Pode ser instalado no Windows, IOS e Linux
 
 ## Desenvolvimento:
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
-- > cd "diretorio de sua preferencia"
-- > git clone https://github.com/Felipecard/Jogo_Show_do_Milhao-
+> cd "diretorio de sua preferencia"
+> git clone https://github.com/Felipecard/Jogo_Show_do_Milhao-
 
 ## Construção:
 Como se trata de um projeto Python puro, basta o Python 3.7 ou superior estar instalado.
-
-## Publicação:
-Como esse projeto só roda em Desktop, não é necessário adicionar um deploy.
 
 ## Features
 O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto Python. Ele também demonstra de forma prática como utilizar diversas ferramentas Python.
 
 ## Configuracão
-Não é necessario baixar nenhuma biblioteca, todas as bibliotecas usadas são padrões do Python.
+Não é necessario baixar nenhuma biblioteca, todas as bibliotecas usadas são padrões do Python 3.8.3.
 
 ## Contribuições
-Contribuições são sempre bem vindas! Para contribuir lembre-se de dar os créditos.
+Contribuições são sempre bem vindas! Para contribuir lembre-se de referenciar.
 
 ### Dev By:
 Felipe Cardoso
