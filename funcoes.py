@@ -71,11 +71,9 @@ def Rodadas(perguntas, premio=1, soma_premio=1):
             break
 
         # CASO SEJA A PERGUNTA DE 1 MILHÃO
-        if pv["pergunta"] == 'Qual a empresa mais legal de se trabalhar?' and respostas_certas == 1:
+        if pv["pergunta"] == 'Qual a empresa mais legal de se trabalhar?' and respostas_certas == 1 or respostas_certas == 0:
             return respostas_certas
-        elif pv["pergunta"] == 'Qual a empresa mais legal de se trabalhar?' and respostas_certas == 0:
-            return respostas_certas
-
+        
         contador += 1
         print()
 
