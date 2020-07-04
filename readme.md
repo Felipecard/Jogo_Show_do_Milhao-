@@ -4,11 +4,11 @@
 #### Versão - 1.0
 
 ## Descrição do projeto:
-Esse projeto tem como propósito um desafio para a empresa Jovens Gênios. Para isso, foi pedido a criacão de um jogo de perguntas e respostas, parecido com o Show do Milhão, um programa de auditório que passou entre 1999 e 2003 no SBT, com o apresentador Sílvio Santos. O jogo tem como finalidade divertir a família Aguiar durante uma viagem de férias.
+Esse projeto tem como propósito um desafio para um processo seletivo. Para isso, foi pedido a criacão de um jogo de perguntas e respostas, parecido com o Show do Milhão, um programa de auditório que passou entre 1999 e 2003 no SBT, com o apresentador Sílvio Santos. O jogo tem como finalidade divertir a família Aguiar durante uma viagem de férias.
 
 ![imagem](img_show.jpg)
 
-Para isso, foi escolhido utilizar a linguagem Python 3.8.3 e fazer o projeto em linha de comando, sendo toda interacao com usuário feita pelo terminal e ainda assim atraente tambem para criancas.
+Para isso, foi escolhido utilizar a linguagem Python 3.8.3 e fazer o projeto em linha de comando, sendo toda interação com usuário feita pelo terminal e ainda assim atraente também para crianças.
 
 **Para executar o projeto, basta clicar no arquivo:**
 > `show_do_milhao.py` 
