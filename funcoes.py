@@ -116,7 +116,7 @@ def Game_over():
 
 def Chamada_rodadas(perguntasA, perguntasB, perguntasC, perguntasFINAL):
 
-    # CHAMA AS RODADAS SEGUINTES, DEPENDENDO DO ACERTO DAS 5 PERGUNTAS
+    # CHAMA AS RODADAS SEGUINTES, DEPENDENDO DO ACERTO DAS 5 PERGUNTAS (A FUNCÃO 'Rodadas' ESTÁ RETORNANDO A VARIÁVEL 'respostas_certas')
     if Rodadas(perguntasA) == 5:
         print()
         print('\033[0;34m\u2622\uFE0FVAMOS AGORA PARA A SEGUNDA RODADA DE PERGUNTAS \u2622\uFE0F\033[m')
