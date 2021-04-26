@@ -1,5 +1,5 @@
 
-# -> Show do Milhão
+# Show do Milhão
 
 #### Versão - 1.0
 
