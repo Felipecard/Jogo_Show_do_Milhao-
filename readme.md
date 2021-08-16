@@ -1,7 +1,7 @@
 
 # Show do Milhão
 
-#### Versão - 1.0
+#### Versão - 1.0.
 
 ## Descrição do projeto:
 Esse projeto tem como propósito um desafio para um processo seletivo. Para isso, foi pedido a criacão de um jogo de perguntas e respostas, parecido com o Show do Milhão, um programa de auditório que passou entre 1999 e 2003 no SBT, com o apresentador Sílvio Santos. O jogo tem como finalidade divertir a família Aguiar durante uma viagem de férias.
